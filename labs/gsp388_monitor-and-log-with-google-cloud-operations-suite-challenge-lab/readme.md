@@ -3,10 +3,7 @@
 ## Topics tested:
 
 * Initialize Cloud Monitoring.
-* Configure a Compute Engine application for Cloud Operations Monitoring custom metrics.
-* Create a custom metric using Cloud Operations logging events.
-* Add custom metrics to a Cloud Monitoring Dashboard.
-* Create a Cloud Operations alert.
+
 
 ## Challenge scenario
 
